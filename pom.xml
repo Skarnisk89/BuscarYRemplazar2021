@@ -11,7 +11,7 @@
   <properties>
 		<maven.compiler.target>11</maven.compiler.target>
 		<maven.compiler.source>11</maven.compiler.source>
-		<exec.mainClass>dad.javafx.busyreem.Main</exec.mainClass>
+		<exec.mainClass>dad.javafx.busyreem.main</exec.mainClass>
 	</properties>
 
 	<dependencies>
